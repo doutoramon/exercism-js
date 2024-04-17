@@ -4,11 +4,11 @@ Este repositório é dedicado a minhas soluções para os exercícios do track J
 
 ## Sobre o Projeto
 
-O Exercism é uma plataforma que oferece exercícios práticos para aprender e aprimorar habilidades de programação em várias linguagens, incluindo JavaScript. Este repositório contém as minhas soluções para os exercícios disponíveis no track JavaScript do Exercism, que inclui 146 exercícios abrangendo 33 conceitos diferentes.
+O Exercism é uma plataforma que oferece exercícios práticos para aprender e aprimorar habilidades de programação em várias linguagens. Este repositório contém as minhas soluções para os exercícios disponíveis no track JavaScript do Exercism, que inclui 146 exercícios abrangendo 33 conceitos diferentes.
 
 ## Objetivo
 
-O principal objetivo deste projeto é servir como um registro de meu progresso e aprendizado em JavaScript. Cada exercício resolvido aqui representa um passo na minha jornada para me tornar um desenvolvedor JavaScript mais competente e confiante.
+O principal objetivo deste projeto é servir como um registro de meu progresso e aprendizado em JavaScript.
 
 ## Como Usar Este Repositório
 
